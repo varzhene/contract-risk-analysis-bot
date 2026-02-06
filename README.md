@@ -29,13 +29,13 @@ Technologies Used
 
 How It Works
 
-User uploads a contract
-System extracts text
-Clauses are detected
-Risk keywords are analyzed
-Risk score is calculated
-Explanations are generated
-Summary PDF is produced
++ User uploads a contract
++ System extracts text
++ Clauses are detected
++ Risk keywords are analyzed
++ Risk score is calculated
++ Explanations are generated
++ Summary PDF is produced
 
 Live Demo
 
