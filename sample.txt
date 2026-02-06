@@ -1,0 +1,7 @@
+1. The employee agrees to indemnify the company from any legal damages.
+
+2. The contract will automatically renew every year unless terminated.
+
+3. The company may terminate this agreement at any time without notice.
+
+4. A penalty of Rs.50000 will be charged for early exit.
